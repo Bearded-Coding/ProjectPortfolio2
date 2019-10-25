@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RolandLupi_ConvertedData
+namespace LupiRoland_FiveStarRating
 {
     class Validation
     {
